@@ -1,0 +1,9 @@
+C:\Users\Devin\Desktop\DM Tools\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe.config
+C:\Users\Devin\Desktop\DM Tools\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe
+C:\Users\Devin\Desktop\DM Tools\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.pdb
+C:\Users\Devin\Desktop\DM Tools\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Devin\Desktop\DM Tools\Dice Simulator\Dice Simulator\obj\Debug\Dice_Simulator.DiceSim.resources
+C:\Users\Devin\Desktop\DM Tools\Dice Simulator\Dice Simulator\obj\Debug\Dice_Simulator.Properties.Resources.resources
+C:\Users\Devin\Desktop\DM Tools\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csproj.GenerateResource.Cache
+C:\Users\Devin\Desktop\DM Tools\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.exe
+C:\Users\Devin\Desktop\DM Tools\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.pdb
